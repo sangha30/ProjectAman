@@ -13,5 +13,7 @@ public class ProjectAman {
     public static void main(String[] args) {
         System.out.println("Hello World!");
         System.out.println("My name is Aman.");
+        System.out.println("My age is 30.");
+        
     }
 }
